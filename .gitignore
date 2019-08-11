@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+team-builder.iml
+team-builder/.gitignore
+team-builder/README.md
+team-builder/package.json
+team-builder/public/
+team-builder/src/App.css
+team-builder/src/App.js
+team-builder/src/App.test.js
+team-builder/src/index.css
+team-builder/src/index.js
+team-builder/src/logo.svg
+team-builder/src/serviceWorker.js
+team-builder/yarn.lock
